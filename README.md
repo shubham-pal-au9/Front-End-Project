@@ -1,1 +1,1 @@
-# Front-End-Project (Clothinge - Commerce Website)
+# Front-End-Project (Clothing e - Commerce Website)
